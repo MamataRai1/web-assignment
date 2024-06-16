@@ -1,22 +1,22 @@
 <customers-data>
     <customer>
         <id>1</id>
-        <first-name>Nishan</first-name>
-        <last-name>Pradhan</last-name>
-        <contact>980030303</contact>
+        <first-name>Mamata</first-name>
+        <last-name>Rai</last-name>
+        <contact>9812368322</contact>
         <address>
-            <email>nishanpradhan@gmail.com</email>
-            <location>Laxmimarga</location>
+            <email>raimamata840@gmail.com</email>
+            <location>Itahari</location>
         </address>
     </customer>
     <customer>
         <id>2</id>
-        <first-name>Manish</first-name>
+        <first-name>Babita</first-name>
         <last-name>Rai</last-name>
         <contact>9865550303</contact>
         <address>
-            <email>manishrai@gmail.com</email>
-            <location>Belbari</location>
+            <email>babita123@gmail.com</email>
+            <location>Dharan</location>
         </address>
     </customer>
 </customers-data>
