@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE intrest [
+<!ELEMENT library (book+,employee+,member+)>
+<!ELEMENT book(title+,author+,publication+)>
+<!ELEMENT employee(#PCDATA)>
+<!ELEMENT member(#PCDATA)>
+
+<!ATTLIST books book CDATA # REQUIRED>
+<!ATTLIST employees employee CDATA # REQUIRED>
+<!ATTLIST members member CDATA # REQUIRED>
+<!ATTLIST title rating CDATA #IMPLIED
+            language CDATA #IMPLIED>
+ 
+
+ ]>
+
+ <intrest>
+   <library>
+       <books id="book">
+          <title>it end with us</title>
+           <author>collen hover </author>
+           <publication> lotus</publication>
+        </books>
+        <employees id="employee">bhawana</employees>
+        <members id="member">collage students</members>
+   </library>
+ </intrest>
