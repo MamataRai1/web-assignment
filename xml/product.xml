@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+<products>
+    <product>
+        <productname>calculator</productname>
+        <category> sicentific calculator</category>
+        <price>800</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <productname>Laptop</productname>
+        <category>Electronics</category>
+        <price>150000</price>
+        <quantity>9</quantity>
+    </product>
+    <product>
+        <productname> tv</productname>
+        <category>Electronics</category>
+        <price>100000</price>
+        <quantity>20</quantity>
+    </product>
+    <product>
+        <productname>Novel Book</productname>
+        <category>Books</category>
+        <price>500</price>
+        <quantity>50</quantity>
+    </product>
+    <product>
+        <productname> smart watch</productname>
+        <category>Electronics</category>
+        <price>8000</price>
+        <quantity>8</quantity>
+    </product>
+    <product>
+        <productname> cooker</productname>
+        <category>Home Appliances</category>
+        <price>1500</price>
+        <quantity>12</quantity>
+    </product>
+</products>
